@@ -1,6 +1,6 @@
 # PuppeteerNewsScraper
 
-CNNPopScraper is a Node.js project that scrapes the latest pop news from the CNN Brasil website using Puppeteer.
+PuppeteerNewsScraper is a Node.js project that scrapes the latest pop news from the CNN Brasil website using Puppeteer.
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -35,4 +35,4 @@ PuppeteerNewsScraper is a web scraping tool designed to extract the latest pop n
 ## Usage
 To run the scraper, use the following command:
 ```sh
-node index.js
+node scrap.js
